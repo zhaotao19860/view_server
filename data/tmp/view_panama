@@ -1,0 +1,1452 @@
+IPV4:
+
+ip-cidr [4.69.170.15/32]
+
+ip-cidr [4.69.170.16/32]
+
+ip-start [4.69.170.15], ip-end [4.69.170.16]
+
+ip-cidr [4.69.170.39/32]
+
+ip-start [4.69.170.39], ip-end [4.69.170.39]
+
+ip-cidr [4.69.218.16/29]
+
+ip-start [4.69.218.16], ip-end [4.69.218.23]
+
+ip-cidr [4.69.239.16/29]
+
+ip-start [4.69.239.16], ip-end [4.69.239.23]
+
+ip-cidr [8.243.237.0/30]
+
+ip-start [8.243.237.0], ip-end [8.243.237.3]
+
+ip-cidr [23.223.152.0/22]
+
+ip-start [23.223.152.0], ip-end [23.223.155.255]
+
+ip-cidr [38.87.208.0/24]
+
+ip-start [38.87.208.0], ip-end [38.87.208.255]
+
+ip-cidr [38.87.248.0/24]
+
+ip-start [38.87.248.0], ip-end [38.87.248.255]
+
+ip-cidr [38.87.250.0/23]
+
+ip-cidr [38.87.252.0/24]
+
+ip-start [38.87.250.0], ip-end [38.87.252.255]
+
+ip-cidr [38.108.32.0/22]
+
+ip-start [38.108.32.0], ip-end [38.108.35.255]
+
+ip-cidr [38.127.114.196/30]
+
+ip-start [38.127.114.196], ip-end [38.127.114.199]
+
+ip-cidr [38.131.12.0/22]
+
+ip-start [38.131.12.0], ip-end [38.131.15.255]
+
+ip-cidr [45.65.254.0/23]
+
+ip-start [45.65.254.0], ip-end [45.65.255.255]
+
+ip-cidr [45.169.96.0/24]
+
+ip-start [45.169.96.0], ip-end [45.169.96.255]
+
+ip-cidr [45.180.20.0/23]
+
+ip-start [45.180.20.0], ip-end [45.180.21.255]
+
+ip-cidr [45.181.68.0/22]
+
+ip-start [45.181.68.0], ip-end [45.181.71.255]
+
+ip-cidr [45.183.41.0/24]
+
+ip-start [45.183.41.0], ip-end [45.183.41.255]
+
+ip-cidr [45.185.128.0/22]
+
+ip-start [45.185.128.0], ip-end [45.185.131.255]
+
+ip-cidr [45.188.248.0/22]
+
+ip-start [45.188.248.0], ip-end [45.188.251.255]
+
+ip-cidr [45.225.70.0/23]
+
+ip-start [45.225.70.0], ip-end [45.225.71.255]
+
+ip-cidr [45.225.74.0/24]
+
+ip-start [45.225.74.0], ip-end [45.225.74.255]
+
+ip-cidr [45.229.56.0/22]
+
+ip-start [45.229.56.0], ip-end [45.229.59.255]
+
+ip-cidr [45.229.196.0/22]
+
+ip-start [45.229.196.0], ip-end [45.229.199.255]
+
+ip-cidr [45.235.227.0/24]
+
+ip-start [45.235.227.0], ip-end [45.235.227.255]
+
+ip-cidr [45.237.184.0/22]
+
+ip-start [45.237.184.0], ip-end [45.237.187.255]
+
+ip-cidr [57.75.208.0/20]
+
+ip-start [57.75.208.0], ip-end [57.75.223.255]
+
+ip-cidr [64.116.0.24/32]
+
+ip-start [64.116.0.24], ip-end [64.116.0.24]
+
+ip-cidr [64.116.16.76/30]
+
+ip-cidr [64.116.16.80/31]
+
+ip-start [64.116.16.76], ip-end [64.116.16.81]
+
+ip-cidr [64.116.16.152/30]
+
+ip-start [64.116.16.152], ip-end [64.116.16.155]
+
+ip-cidr [64.116.32.152/31]
+
+ip-start [64.116.32.152], ip-end [64.116.32.153]
+
+ip-cidr [64.116.36.28/31]
+
+ip-start [64.116.36.28], ip-end [64.116.36.29]
+
+ip-cidr [64.116.36.92/31]
+
+ip-start [64.116.36.92], ip-end [64.116.36.93]
+
+ip-cidr [64.116.41.52/30]
+
+ip-cidr [64.116.41.56/29]
+
+ip-start [64.116.41.52], ip-end [64.116.41.63]
+
+ip-cidr [64.116.161.0/24]
+
+ip-start [64.116.161.0], ip-end [64.116.161.255]
+
+ip-cidr [64.116.170.0/24]
+
+ip-start [64.116.170.0], ip-end [64.116.170.255]
+
+ip-cidr [64.116.178.0/24]
+
+ip-start [64.116.178.0], ip-end [64.116.178.255]
+
+ip-cidr [64.116.183.0/24]
+
+ip-cidr [64.116.184.0/21]
+
+ip-start [64.116.183.0], ip-end [64.116.191.255]
+
+ip-cidr [64.117.200.0/21]
+
+ip-start [64.117.200.0], ip-end [64.117.207.255]
+
+ip-cidr [64.117.232.0/24]
+
+ip-start [64.117.232.0], ip-end [64.117.232.255]
+
+ip-cidr [64.117.234.0/24]
+
+ip-start [64.117.234.0], ip-end [64.117.234.255]
+
+ip-cidr [64.208.84.200/30]
+
+ip-cidr [64.208.84.204/31]
+
+ip-start [64.208.84.200], ip-end [64.208.84.205]
+
+ip-cidr [64.208.84.208/31]
+
+ip-start [64.208.84.208], ip-end [64.208.84.209]
+
+ip-cidr [64.208.84.212/30]
+
+ip-start [64.208.84.212], ip-end [64.208.84.215]
+
+ip-cidr [64.208.125.224/28]
+
+ip-start [64.208.125.224], ip-end [64.208.125.239]
+
+ip-cidr [64.209.30.0/23]
+
+ip-start [64.209.30.0], ip-end [64.209.31.255]
+
+ip-cidr [64.210.64.0/24]
+
+ip-start [64.210.64.0], ip-end [64.210.64.255]
+
+ip-cidr [64.211.23.28/30]
+
+ip-start [64.211.23.28], ip-end [64.211.23.31]
+
+ip-cidr [64.212.218.0/24]
+
+ip-start [64.212.218.0], ip-end [64.212.218.255]
+
+ip-cidr [64.213.56.0/21]
+
+ip-start [64.213.56.0], ip-end [64.213.63.255]
+
+ip-cidr [64.215.113.144/30]
+
+ip-start [64.215.113.144], ip-end [64.215.113.147]
+
+ip-cidr [64.215.120.0/21]
+
+ip-start [64.215.120.0], ip-end [64.215.127.255]
+
+ip-cidr [64.215.146.0/24]
+
+ip-start [64.215.146.0], ip-end [64.215.146.255]
+
+ip-cidr [67.16.160.60/31]
+
+ip-start [67.16.160.60], ip-end [67.16.160.61]
+
+ip-cidr [67.16.160.104/31]
+
+ip-start [67.16.160.104], ip-end [67.16.160.105]
+
+ip-cidr [67.16.161.44/31]
+
+ip-start [67.16.161.44], ip-end [67.16.161.45]
+
+ip-cidr [67.16.161.204/31]
+
+ip-start [67.16.161.204], ip-end [67.16.161.205]
+
+ip-cidr [67.16.161.208/31]
+
+ip-start [67.16.161.208], ip-end [67.16.161.209]
+
+ip-cidr [67.16.161.228/31]
+
+ip-start [67.16.161.228], ip-end [67.16.161.229]
+
+ip-cidr [67.16.161.232/31]
+
+ip-start [67.16.161.232], ip-end [67.16.161.233]
+
+ip-cidr [67.16.181.16/29]
+
+ip-start [67.16.181.16], ip-end [67.16.181.23]
+
+ip-cidr [67.16.184.244/31]
+
+ip-start [67.16.184.244], ip-end [67.16.184.245]
+
+ip-cidr [67.16.184.252/31]
+
+ip-start [67.16.184.252], ip-end [67.16.184.253]
+
+ip-cidr [67.16.187.196/31]
+
+ip-start [67.16.187.196], ip-end [67.16.187.197]
+
+ip-cidr [67.16.191.16/29]
+
+ip-start [67.16.191.16], ip-end [67.16.191.23]
+
+ip-cidr [67.16.191.156/30]
+
+ip-start [67.16.191.156], ip-end [67.16.191.159]
+
+ip-cidr [67.16.191.176/30]
+
+ip-start [67.16.191.176], ip-end [67.16.191.179]
+
+ip-cidr [67.17.65.16/31]
+
+ip-start [67.17.65.16], ip-end [67.17.65.17]
+
+ip-cidr [67.17.93.14/31]
+
+ip-start [67.17.93.14], ip-end [67.17.93.15]
+
+ip-cidr [67.17.93.56/31]
+
+ip-start [67.17.93.56], ip-end [67.17.93.57]
+
+ip-cidr [67.17.93.220/31]
+
+ip-start [67.17.93.220], ip-end [67.17.93.221]
+
+ip-cidr [67.17.95.246/31]
+
+ip-start [67.17.95.246], ip-end [67.17.95.247]
+
+ip-cidr [67.17.96.117/32]
+
+ip-start [67.17.96.117], ip-end [67.17.96.117]
+
+ip-cidr [67.17.97.106/31]
+
+ip-start [67.17.97.106], ip-end [67.17.97.107]
+
+ip-cidr [67.17.97.112/30]
+
+ip-start [67.17.97.112], ip-end [67.17.97.115]
+
+ip-cidr [67.17.97.204/30]
+
+ip-cidr [67.17.97.208/31]
+
+ip-start [67.17.97.204], ip-end [67.17.97.209]
+
+ip-cidr [67.17.97.224/30]
+
+ip-start [67.17.97.224], ip-end [67.17.97.227]
+
+ip-cidr [67.17.99.16/30]
+
+ip-start [67.17.99.16], ip-end [67.17.99.19]
+
+ip-cidr [67.17.99.96/30]
+
+ip-start [67.17.99.96], ip-end [67.17.99.99]
+
+ip-cidr [67.17.106.72/30]
+
+ip-start [67.17.106.72], ip-end [67.17.106.75]
+
+ip-cidr [67.17.106.116/30]
+
+ip-start [67.17.106.116], ip-end [67.17.106.119]
+
+ip-cidr [67.17.106.136/31]
+
+ip-start [67.17.106.136], ip-end [67.17.106.137]
+
+ip-cidr [67.17.108.26/31]
+
+ip-start [67.17.108.26], ip-end [67.17.108.27]
+
+ip-cidr [67.17.108.30/31]
+
+ip-start [67.17.108.30], ip-end [67.17.108.31]
+
+ip-cidr [67.17.109.170/31]
+
+ip-start [67.17.109.170], ip-end [67.17.109.171]
+
+ip-cidr [67.17.109.188/30]
+
+ip-start [67.17.109.188], ip-end [67.17.109.191]
+
+ip-cidr [89.221.37.128/25]
+
+ip-start [89.221.37.128], ip-end [89.221.37.255]
+
+ip-cidr [131.72.224.0/22]
+
+ip-start [131.72.224.0], ip-end [131.72.227.255]
+
+ip-cidr [131.108.4.0/22]
+
+ip-start [131.108.4.0], ip-end [131.108.7.255]
+
+ip-cidr [131.108.20.0/22]
+
+ip-start [131.108.20.0], ip-end [131.108.23.255]
+
+ip-cidr [131.221.24.0/22]
+
+ip-start [131.221.24.0], ip-end [131.221.27.255]
+
+ip-cidr [132.237.158.0/24]
+
+ip-start [132.237.158.0], ip-end [132.237.158.255]
+
+ip-cidr [132.237.178.0/24]
+
+ip-start [132.237.178.0], ip-end [132.237.178.255]
+
+ip-cidr [138.99.136.0/22]
+
+ip-start [138.99.136.0], ip-end [138.99.139.255]
+
+ip-cidr [138.118.124.0/22]
+
+ip-start [138.118.124.0], ip-end [138.118.127.255]
+
+ip-cidr [138.186.12.0/22]
+
+ip-start [138.186.12.0], ip-end [138.186.15.255]
+
+ip-cidr [138.186.88.0/22]
+
+ip-start [138.186.88.0], ip-end [138.186.91.255]
+
+ip-cidr [138.204.108.0/23]
+
+ip-cidr [138.204.110.0/24]
+
+ip-start [138.204.108.0], ip-end [138.204.110.255]
+
+ip-cidr [138.255.52.0/22]
+
+ip-start [138.255.52.0], ip-end [138.255.55.255]
+
+ip-cidr [143.255.156.0/22]
+
+ip-start [143.255.156.0], ip-end [143.255.159.255]
+
+ip-cidr [148.177.120.0/24]
+
+ip-start [148.177.120.0], ip-end [148.177.120.255]
+
+ip-cidr [159.63.23.76/30]
+
+ip-start [159.63.23.76], ip-end [159.63.23.79]
+
+ip-cidr [159.63.23.236/30]
+
+ip-start [159.63.23.236], ip-end [159.63.23.239]
+
+ip-cidr [159.63.49.12/30]
+
+ip-start [159.63.49.12], ip-end [159.63.49.15]
+
+ip-cidr [159.63.49.244/30]
+
+ip-start [159.63.49.244], ip-end [159.63.49.247]
+
+ip-cidr [159.63.49.252/30]
+
+ip-start [159.63.49.252], ip-end [159.63.49.255]
+
+ip-cidr [160.20.246.0/24]
+
+ip-start [160.20.246.0], ip-end [160.20.246.255]
+
+ip-cidr [160.111.132.0/22]
+
+ip-start [160.111.132.0], ip-end [160.111.135.255]
+
+ip-cidr [160.111.230.0/24]
+
+ip-start [160.111.230.0], ip-end [160.111.230.255]
+
+ip-cidr [160.111.232.0/21]
+
+ip-start [160.111.232.0], ip-end [160.111.239.255]
+
+ip-cidr [161.22.48.0/23]
+
+ip-start [161.22.48.0], ip-end [161.22.49.255]
+
+ip-cidr [164.163.244.0/22]
+
+ip-start [164.163.244.0], ip-end [164.163.247.255]
+
+ip-cidr [167.250.112.0/22]
+
+ip-start [167.250.112.0], ip-end [167.250.115.255]
+
+ip-cidr [168.77.0.0/16]
+
+ip-start [168.77.0.0], ip-end [168.77.255.255]
+
+ip-cidr [168.121.128.0/22]
+
+ip-start [168.121.128.0], ip-end [168.121.131.255]
+
+ip-cidr [168.197.189.0/24]
+
+ip-cidr [168.197.190.0/23]
+
+ip-start [168.197.189.0], ip-end [168.197.191.255]
+
+ip-cidr [168.205.8.0/22]
+
+ip-start [168.205.8.0], ip-end [168.205.11.255]
+
+ip-cidr [170.79.108.0/22]
+
+ip-start [170.79.108.0], ip-end [170.79.111.255]
+
+ip-cidr [170.80.91.0/24]
+
+ip-start [170.80.91.0], ip-end [170.80.91.255]
+
+ip-cidr [170.82.247.0/24]
+
+ip-start [170.82.247.0], ip-end [170.82.247.255]
+
+ip-cidr [170.246.220.0/22]
+
+ip-start [170.246.220.0], ip-end [170.246.223.255]
+
+ip-cidr [170.247.152.0/22]
+
+ip-start [170.247.152.0], ip-end [170.247.155.255]
+
+ip-cidr [170.254.48.0/22]
+
+ip-start [170.254.48.0], ip-end [170.254.51.255]
+
+ip-cidr [172.68.96.0/22]
+
+ip-start [172.68.96.0], ip-end [172.68.99.255]
+
+ip-cidr [179.0.200.0/23]
+
+ip-start [179.0.200.0], ip-end [179.0.201.255]
+
+ip-cidr [179.42.0.0/18]
+
+ip-cidr [179.42.64.0/19]
+
+ip-start [179.42.0.0], ip-end [179.42.95.255]
+
+ip-cidr [179.42.128.0/20]
+
+ip-start [179.42.128.0], ip-end [179.42.143.255]
+
+ip-cidr [179.48.0.0/18]
+
+ip-start [179.48.0.0], ip-end [179.48.63.255]
+
+ip-cidr [179.48.96.0/19]
+
+ip-cidr [179.48.128.0/19]
+
+ip-start [179.48.96.0], ip-end [179.48.159.255]
+
+ip-cidr [179.48.224.0/20]
+
+ip-start [179.48.224.0], ip-end [179.48.239.255]
+
+ip-cidr [179.60.147.0/24]
+
+ip-start [179.60.147.0], ip-end [179.60.147.255]
+
+ip-cidr [179.63.128.0/20]
+
+ip-start [179.63.128.0], ip-end [179.63.143.255]
+
+ip-cidr [179.63.192.0/21]
+
+ip-start [179.63.192.0], ip-end [179.63.199.255]
+
+ip-cidr [181.38.0.0/16]
+
+ip-start [181.38.0.0], ip-end [181.38.255.255]
+
+ip-cidr [181.118.34.0/23]
+
+ip-start [181.118.34.0], ip-end [181.118.35.255]
+
+ip-cidr [181.118.37.0/24]
+
+ip-cidr [181.118.38.0/23]
+
+ip-cidr [181.118.40.0/23]
+
+ip-cidr [181.118.42.0/24]
+
+ip-start [181.118.37.0], ip-end [181.118.42.255]
+
+ip-cidr [181.118.45.0/24]
+
+ip-cidr [181.118.46.0/23]
+
+ip-start [181.118.45.0], ip-end [181.118.47.255]
+
+ip-cidr [181.174.164.0/22]
+
+ip-start [181.174.164.0], ip-end [181.174.167.255]
+
+ip-cidr [181.178.0.0/15]
+
+ip-start [181.178.0.0], ip-end [181.179.255.255]
+
+ip-cidr [181.197.0.0/17]
+
+ip-cidr [181.197.128.0/18]
+
+ip-start [181.197.0.0], ip-end [181.197.191.255]
+
+ip-cidr [181.214.86.0/24]
+
+ip-start [181.214.86.0], ip-end [181.214.86.255]
+
+ip-cidr [186.5.128.0/19]
+
+ip-start [186.5.128.0], ip-end [186.5.159.255]
+
+ip-cidr [186.72.0.0/14]
+
+ip-start [186.72.0.0], ip-end [186.75.255.255]
+
+ip-cidr [186.96.77.0/24]
+
+ip-start [186.96.77.0], ip-end [186.96.77.255]
+
+ip-cidr [186.148.96.0/21]
+
+ip-cidr [186.148.104.0/22]
+
+ip-cidr [186.148.108.0/24]
+
+ip-cidr [186.148.109.0/26]
+
+ip-cidr [186.148.109.64/28]
+
+ip-cidr [186.148.109.80/30]
+
+ip-cidr [186.148.109.84/32]
+
+ip-start [186.148.96.0], ip-end [186.148.109.84]
+
+ip-cidr [186.148.109.86/31]
+
+ip-cidr [186.148.109.88/29]
+
+ip-cidr [186.148.109.96/27]
+
+ip-cidr [186.148.109.128/25]
+
+ip-cidr [186.148.110.0/24]
+
+ip-cidr [186.148.111.0/26]
+
+ip-cidr [186.148.111.64/29]
+
+ip-cidr [186.148.111.72/30]
+
+ip-start [186.148.109.86], ip-end [186.148.111.75]
+
+ip-cidr [186.148.111.80/28]
+
+ip-cidr [186.148.111.96/27]
+
+ip-cidr [186.148.111.128/25]
+
+ip-start [186.148.111.80], ip-end [186.148.111.255]
+
+ip-cidr [186.148.192.0/21]
+
+ip-start [186.148.192.0], ip-end [186.148.199.255]
+
+ip-cidr [186.159.116.0/22]
+
+ip-start [186.159.116.0], ip-end [186.159.119.255]
+
+ip-cidr [186.179.112.0/20]
+
+ip-start [186.179.112.0], ip-end [186.179.127.255]
+
+ip-cidr [186.188.128.0/17]
+
+ip-start [186.188.128.0], ip-end [186.188.255.255]
+
+ip-cidr [190.2.224.0/20]
+
+ip-start [190.2.224.0], ip-end [190.2.239.255]
+
+ip-cidr [190.5.224.0/19]
+
+ip-start [190.5.224.0], ip-end [190.5.255.255]
+
+ip-cidr [190.8.160.0/22]
+
+ip-start [190.8.160.0], ip-end [190.8.163.255]
+
+ip-cidr [190.14.16.0/23]
+
+ip-start [190.14.16.0], ip-end [190.14.17.255]
+
+ip-cidr [190.14.36.0/22]
+
+ip-start [190.14.36.0], ip-end [190.14.39.255]
+
+ip-cidr [190.14.192.0/19]
+
+ip-start [190.14.192.0], ip-end [190.14.223.255]
+
+ip-cidr [190.32.0.0/14]
+
+ip-start [190.32.0.0], ip-end [190.35.255.255]
+
+ip-cidr [190.57.32.0/20]
+
+ip-start [190.57.32.0], ip-end [190.57.47.255]
+
+ip-cidr [190.93.32.0/22]
+
+ip-start [190.93.32.0], ip-end [190.93.35.255]
+
+ip-cidr [190.97.160.0/21]
+
+ip-start [190.97.160.0], ip-end [190.97.167.255]
+
+ip-cidr [190.98.128.0/24]
+
+ip-start [190.98.128.0], ip-end [190.98.128.255]
+
+ip-cidr [190.102.56.0/21]
+
+ip-start [190.102.56.0], ip-end [190.102.63.255]
+
+ip-cidr [190.105.152.0/22]
+
+ip-start [190.105.152.0], ip-end [190.105.155.255]
+
+ip-cidr [190.105.168.0/22]
+
+ip-start [190.105.168.0], ip-end [190.105.171.255]
+
+ip-cidr [190.107.160.0/20]
+
+ip-start [190.107.160.0], ip-end [190.107.175.255]
+
+ip-cidr [190.111.96.0/20]
+
+ip-start [190.111.96.0], ip-end [190.111.111.255]
+
+ip-cidr [190.111.128.0/18]
+
+ip-start [190.111.128.0], ip-end [190.111.191.255]
+
+ip-cidr [190.122.160.0/20]
+
+ip-start [190.122.160.0], ip-end [190.122.175.255]
+
+ip-cidr [190.122.188.0/22]
+
+ip-start [190.122.188.0], ip-end [190.122.191.255]
+
+ip-cidr [190.123.40.0/23]
+
+ip-start [190.123.40.0], ip-end [190.123.41.255]
+
+ip-cidr [190.123.44.0/22]
+
+ip-start [190.123.44.0], ip-end [190.123.47.255]
+
+ip-cidr [190.123.224.0/20]
+
+ip-start [190.123.224.0], ip-end [190.123.239.255]
+
+ip-cidr [190.140.0.0/15]
+
+ip-start [190.140.0.0], ip-end [190.141.255.255]
+
+ip-cidr [190.217.124.212/30]
+
+ip-start [190.217.124.212], ip-end [190.217.124.215]
+
+ip-cidr [190.217.127.0/25]
+
+ip-start [190.217.127.0], ip-end [190.217.127.127]
+
+ip-cidr [190.217.127.144/28]
+
+ip-start [190.217.127.144], ip-end [190.217.127.159]
+
+ip-cidr [190.218.0.0/15]
+
+ip-start [190.218.0.0], ip-end [190.219.255.255]
+
+ip-cidr [190.242.3.0/24]
+
+ip-start [190.242.3.0], ip-end [190.242.3.255]
+
+ip-cidr [190.242.6.0/23]
+
+ip-cidr [190.242.8.0/21]
+
+ip-start [190.242.6.0], ip-end [190.242.15.255]
+
+ip-cidr [190.242.20.0/23]
+
+ip-start [190.242.20.0], ip-end [190.242.21.255]
+
+ip-cidr [190.242.30.0/24]
+
+ip-start [190.242.30.0], ip-end [190.242.30.255]
+
+ip-cidr [190.242.64.0/21]
+
+ip-start [190.242.64.0], ip-end [190.242.71.255]
+
+ip-cidr [190.242.88.0/24]
+
+ip-start [190.242.88.0], ip-end [190.242.88.255]
+
+ip-cidr [190.242.145.0/24]
+
+ip-start [190.242.145.0], ip-end [190.242.145.255]
+
+ip-cidr [190.242.147.0/24]
+
+ip-start [190.242.147.0], ip-end [190.242.147.255]
+
+ip-cidr [191.97.20.0/22]
+
+ip-start [191.97.20.0], ip-end [191.97.23.255]
+
+ip-cidr [191.98.196.0/22]
+
+ip-start [191.98.196.0], ip-end [191.98.199.255]
+
+ip-cidr [192.231.36.0/24]
+
+ip-start [192.231.36.0], ip-end [192.231.36.255]
+
+ip-cidr [199.26.234.0/24]
+
+ip-start [199.26.234.0], ip-end [199.26.234.255]
+
+ip-cidr [200.0.64.0/24]
+
+ip-start [200.0.64.0], ip-end [200.0.64.255]
+
+ip-cidr [200.0.178.0/24]
+
+ip-start [200.0.178.0], ip-end [200.0.178.255]
+
+ip-cidr [200.3.10.0/23]
+
+ip-start [200.3.10.0], ip-end [200.3.11.255]
+
+ip-cidr [200.3.196.0/22]
+
+ip-cidr [200.3.200.0/21]
+
+ip-start [200.3.196.0], ip-end [200.3.207.255]
+
+ip-cidr [200.6.52.0/24]
+
+ip-start [200.6.52.0], ip-end [200.6.52.255]
+
+ip-cidr [200.6.79.0/24]
+
+ip-start [200.6.79.0], ip-end [200.6.79.255]
+
+ip-cidr [200.10.15.0/24]
+
+ip-start [200.10.15.0], ip-end [200.10.15.255]
+
+ip-cidr [200.10.144.0/24]
+
+ip-start [200.10.144.0], ip-end [200.10.144.255]
+
+ip-cidr [200.10.203.0/24]
+
+ip-start [200.10.203.0], ip-end [200.10.203.255]
+
+ip-cidr [200.12.208.0/21]
+
+ip-start [200.12.208.0], ip-end [200.12.215.255]
+
+ip-cidr [200.14.81.0/24]
+
+ip-start [200.14.81.0], ip-end [200.14.81.255]
+
+ip-cidr [200.14.119.0/24]
+
+ip-start [200.14.119.0], ip-end [200.14.119.255]
+
+ip-cidr [200.33.125.0/24]
+
+ip-start [200.33.125.0], ip-end [200.33.125.255]
+
+ip-cidr [200.46.0.0/16]
+
+ip-start [200.46.0.0], ip-end [200.46.255.255]
+
+ip-cidr [200.62.5.0/24]
+
+ip-start [200.62.5.0], ip-end [200.62.5.255]
+
+ip-cidr [200.62.34.0/24]
+
+ip-start [200.62.34.0], ip-end [200.62.34.255]
+
+ip-cidr [200.62.53.0/24]
+
+ip-start [200.62.53.0], ip-end [200.62.53.255]
+
+ip-cidr [200.63.40.0/21]
+
+ip-start [200.63.40.0], ip-end [200.63.47.255]
+
+ip-cidr [200.74.240.0/21]
+
+ip-start [200.74.240.0], ip-end [200.74.247.255]
+
+ip-cidr [200.75.192.0/18]
+
+ip-start [200.75.192.0], ip-end [200.75.255.255]
+
+ip-cidr [200.90.128.0/20]
+
+ip-start [200.90.128.0], ip-end [200.90.143.255]
+
+ip-cidr [200.108.32.0/19]
+
+ip-start [200.108.32.0], ip-end [200.108.63.255]
+
+ip-cidr [200.110.152.0/22]
+
+ip-start [200.110.152.0], ip-end [200.110.155.255]
+
+ip-cidr [200.115.19.0/24]
+
+ip-start [200.115.19.0], ip-end [200.115.19.255]
+
+ip-cidr [200.115.128.0/19]
+
+ip-cidr [200.115.160.0/20]
+
+ip-start [200.115.128.0], ip-end [200.115.175.255]
+
+ip-cidr [200.115.177.0/24]
+
+ip-start [200.115.177.0], ip-end [200.115.177.255]
+
+ip-cidr [200.124.0.0/19]
+
+ip-start [200.124.0.0], ip-end [200.124.31.255]
+
+ip-cidr [200.124.127.0/24]
+
+ip-start [200.124.127.0], ip-end [200.124.127.255]
+
+ip-cidr [201.131.98.0/23]
+
+ip-start [201.131.98.0], ip-end [201.131.99.255]
+
+ip-cidr [201.131.149.0/24]
+
+ip-cidr [201.131.150.0/23]
+
+ip-start [201.131.149.0], ip-end [201.131.151.255]
+
+ip-cidr [201.218.64.0/18]
+
+ip-start [201.218.64.0], ip-end [201.218.127.255]
+
+ip-cidr [201.218.192.0/18]
+
+ip-start [201.218.192.0], ip-end [201.218.255.255]
+
+ip-cidr [201.221.224.0/19]
+
+ip-start [201.221.224.0], ip-end [201.221.255.255]
+
+ip-cidr [201.224.0.0/14]
+
+ip-start [201.224.0.0], ip-end [201.227.255.255]
+
+ip-cidr [204.245.13.24/30]
+
+ip-start [204.245.13.24], ip-end [204.245.13.27]
+
+ip-cidr [204.246.200.96/30]
+
+ip-start [204.246.200.96], ip-end [204.246.200.99]
+
+ip-cidr [204.246.203.224/30]
+
+ip-start [204.246.203.224], ip-end [204.246.203.227]
+
+ip-cidr [204.246.244.88/29]
+
+ip-start [204.246.244.88], ip-end [204.246.244.95]
+
+ip-cidr [206.132.99.0/24]
+
+ip-start [206.132.99.0], ip-end [206.132.99.255]
+
+ip-cidr [206.132.224.0/22]
+
+ip-start [206.132.224.0], ip-end [206.132.227.255]
+
+ip-cidr [206.224.32.0/19]
+
+ip-start [206.224.32.0], ip-end [206.224.63.255]
+
+ip-cidr [207.138.112.76/30]
+
+ip-start [207.138.112.76], ip-end [207.138.112.79]
+
+ip-cidr [207.138.234.168/30]
+
+ip-start [207.138.234.168], ip-end [207.138.234.171]
+
+ip-cidr [207.218.99.0/24]
+
+ip-start [207.218.99.0], ip-end [207.218.99.255]
+
+ip-cidr [208.48.33.64/27]
+
+ip-start [208.48.33.64], ip-end [208.48.33.95]
+
+ip-cidr [208.51.41.4/30]
+
+ip-start [208.51.41.4], ip-end [208.51.41.7]
+
+ip-cidr [209.130.130.156/30]
+
+ip-cidr [209.130.130.160/29]
+
+ip-cidr [209.130.130.168/31]
+
+ip-start [209.130.130.156], ip-end [209.130.130.169]
+
+ip-cidr [209.130.130.172/31]
+
+ip-start [209.130.130.172], ip-end [209.130.130.173]
+
+ip-cidr [209.130.130.230/31]
+
+ip-start [209.130.130.230], ip-end [209.130.130.231]
+
+ip-cidr [209.130.130.234/31]
+
+ip-start [209.130.130.234], ip-end [209.130.130.235]
+
+ip-cidr [209.161.121.0/24]
+
+ip-start [209.161.121.0], ip-end [209.161.121.255]
+
+ip-cidr [209.161.123.0/24]
+
+ip-cidr [209.161.124.0/24]
+
+ip-start [209.161.123.0], ip-end [209.161.124.255]
+
+ip-cidr [209.161.126.76/30]
+
+ip-start [209.161.126.76], ip-end [209.161.126.79]
+
+IPV6:
+
+ip-cidr [2001:1368::/32]
+
+ip-start [2001:1368::], ip-end [2001:1368:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2400:bb40::/36]
+
+ip-start [2400:bb40::], ip-end [2400:bb40:fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2400:bb40:1200::/39]
+
+ip-start [2400:bb40:1200::], ip-end [2400:bb40:13ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2400:bb40:1400::/38]
+
+ip-start [2400:bb40:1400::], ip-end [2400:bb40:17ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2400:bb40:1800::/37]
+
+ip-start [2400:bb40:1800::], ip-end [2400:bb40:1fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2400:bb40:2000::/35]
+
+ip-start [2400:bb40:2000::], ip-end [2400:bb40:3fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2400:bb40:4000::/34]
+
+ip-start [2400:bb40:4000::], ip-end [2400:bb40:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2400:bb40:8000::/33]
+
+ip-start [2400:bb40:8000::], ip-end [2400:bb40:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2800:140::/32]
+
+ip-start [2800:140::], ip-end [2800:140:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2800:350::/29]
+
+ip-start [2800:350::], ip-end [2800:357:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2800:980::/32]
+
+ip-start [2800:980::], ip-end [2800:980:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2800:ce0::/32]
+
+ip-start [2800:ce0::], ip-end [2800:ce0:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:0:240::/48]
+
+ip-start [2801:0:240::], ip-end [2801:0:240:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:0:2b0::/48]
+
+ip-start [2801:0:2b0::], ip-end [2801:0:2b0:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:0:2d0::/48]
+
+ip-start [2801:0:2d0::], ip-end [2801:0:2d0:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:0:490::/48]
+
+ip-start [2801:0:490::], ip-end [2801:0:490:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:12:e000::/48]
+
+ip-start [2801:12:e000::], ip-end [2801:12:e000:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:14:d000::/44]
+
+ip-start [2801:14:d000::], ip-end [2801:14:d00f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:16:3000::/48]
+
+ip-start [2801:16:3000::], ip-end [2801:16:3000:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:17:9000::/48]
+
+ip-start [2801:17:9000::], ip-end [2801:17:9000:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:17:c000::/48]
+
+ip-start [2801:17:c000::], ip-end [2801:17:c000:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:19:1000::/48]
+
+ip-start [2801:19:1000::], ip-end [2801:19:1000:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:1b:7000::/48]
+
+ip-start [2801:1b:7000::], ip-end [2801:1b:7000:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:1b:c000::/48]
+
+ip-start [2801:1b:c000::], ip-end [2801:1b:c000:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:1c:6000::/48]
+
+ip-start [2801:1c:6000::], ip-end [2801:1c:6000:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:138::/40]
+
+ip-start [2801:138::], ip-end [2801:138:ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:158::/36]
+
+ip-start [2801:158::], ip-end [2801:158:fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2801:180::/44]
+
+ip-start [2801:180::], ip-end [2801:180:f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:200::/32]
+
+ip-start [2803:200::], ip-end [2803:200:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:600::/32]
+
+ip-start [2803:600::], ip-end [2803:600:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:b80::/32]
+
+ip-start [2803:b80::], ip-end [2803:b80:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:2900::/32]
+
+ip-start [2803:2900::], ip-end [2803:2900:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:2940::/32]
+
+ip-start [2803:2940::], ip-end [2803:2940:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:2b00::/32]
+
+ip-start [2803:2b00::], ip-end [2803:2b00:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:2d80::/32]
+
+ip-start [2803:2d80::], ip-end [2803:2d80:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:2e40::/32]
+
+ip-start [2803:2e40::], ip-end [2803:2e40:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:3000::/32]
+
+ip-start [2803:3000::], ip-end [2803:3000:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:3400::/32]
+
+ip-start [2803:3400::], ip-end [2803:3400:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:34a0::/32]
+
+ip-start [2803:34a0::], ip-end [2803:34a0:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:3520::/32]
+
+ip-start [2803:3520::], ip-end [2803:3520:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:3620::/32]
+
+ip-start [2803:3620::], ip-end [2803:3620:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:4300::/32]
+
+ip-start [2803:4300::], ip-end [2803:4300:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:5120::/32]
+
+ip-start [2803:5120::], ip-end [2803:5120:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:58a0::/32]
+
+ip-start [2803:58a0::], ip-end [2803:58a0:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:6280::/32]
+
+ip-start [2803:6280::], ip-end [2803:6280:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:6e20::/32]
+
+ip-start [2803:6e20::], ip-end [2803:6e20:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:7280::/32]
+
+ip-start [2803:7280::], ip-end [2803:7280:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:73a0::/32]
+
+ip-start [2803:73a0::], ip-end [2803:73a0:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:7bc0::/32]
+
+ip-start [2803:7bc0::], ip-end [2803:7bc0:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:7c80::/32]
+
+ip-start [2803:7c80::], ip-end [2803:7c80:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:8960::/32]
+
+ip-start [2803:8960::], ip-end [2803:8960:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:8c80::/32]
+
+ip-start [2803:8c80::], ip-end [2803:8c80:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:8f00::/32]
+
+ip-start [2803:8f00::], ip-end [2803:8f00:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:96c0::/32]
+
+ip-start [2803:96c0::], ip-end [2803:96c0:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:9e40::/32]
+
+ip-start [2803:9e40::], ip-end [2803:9e40:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:a380::/32]
+
+ip-start [2803:a380::], ip-end [2803:a380:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ac40::/32]
+
+ip-start [2803:ac40::], ip-end [2803:ac40:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:1::/48]
+
+ip-start [2803:ad80:1::], ip-end [2803:ad80:1:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:2::/47]
+
+ip-start [2803:ad80:2::], ip-end [2803:ad80:3:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:4::/46]
+
+ip-start [2803:ad80:4::], ip-end [2803:ad80:7:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:8::/45]
+
+ip-start [2803:ad80:8::], ip-end [2803:ad80:f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:10::/46]
+
+ip-start [2803:ad80:10::], ip-end [2803:ad80:13:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:14::/47]
+
+ip-start [2803:ad80:14::], ip-end [2803:ad80:15:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:17::/48]
+
+ip-start [2803:ad80:17::], ip-end [2803:ad80:17:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:18::/45]
+
+ip-start [2803:ad80:18::], ip-end [2803:ad80:1f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:20::/43]
+
+ip-start [2803:ad80:20::], ip-end [2803:ad80:3f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:40::/43]
+
+ip-start [2803:ad80:40::], ip-end [2803:ad80:5f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:60::/45]
+
+ip-start [2803:ad80:60::], ip-end [2803:ad80:67:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:68::/48]
+
+ip-start [2803:ad80:68::], ip-end [2803:ad80:68:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:6a::/47]
+
+ip-start [2803:ad80:6a::], ip-end [2803:ad80:6b:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:6c::/46]
+
+ip-start [2803:ad80:6c::], ip-end [2803:ad80:6f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:70::/44]
+
+ip-start [2803:ad80:70::], ip-end [2803:ad80:7f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:80::/41]
+
+ip-start [2803:ad80:80::], ip-end [2803:ad80:ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:100::/40]
+
+ip-start [2803:ad80:100::], ip-end [2803:ad80:1ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:200::/39]
+
+ip-start [2803:ad80:200::], ip-end [2803:ad80:3ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:400::/38]
+
+ip-start [2803:ad80:400::], ip-end [2803:ad80:7ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:800::/37]
+
+ip-start [2803:ad80:800::], ip-end [2803:ad80:fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:1000::/36]
+
+ip-start [2803:ad80:1000::], ip-end [2803:ad80:1fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:2000::/35]
+
+ip-start [2803:ad80:2000::], ip-end [2803:ad80:3fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:4000::/34]
+
+ip-start [2803:ad80:4000::], ip-end [2803:ad80:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ad80:8000::/33]
+
+ip-start [2803:ad80:8000::], ip-end [2803:ad80:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ae40::/32]
+
+ip-start [2803:ae40::], ip-end [2803:ae40:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:b840::/32]
+
+ip-start [2803:b840::], ip-end [2803:b840:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:bd80::/32]
+
+ip-start [2803:bd80::], ip-end [2803:bd80:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:bf80::/32]
+
+ip-start [2803:bf80::], ip-end [2803:bf80:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:c560::/32]
+
+ip-start [2803:c560::], ip-end [2803:c560:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:c820::/32]
+
+ip-start [2803:c820::], ip-end [2803:c820:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:d040::/32]
+
+ip-start [2803:d040::], ip-end [2803:d040:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:d6c0::/32]
+
+ip-start [2803:d6c0::], ip-end [2803:d6c0:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:d840::/32]
+
+ip-start [2803:d840::], ip-end [2803:d840:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:d980::/32]
+
+ip-start [2803:d980::], ip-end [2803:d980:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:db60::/32]
+
+ip-start [2803:db60::], ip-end [2803:db60:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:dd00::/32]
+
+ip-start [2803:dd00::], ip-end [2803:dd00:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:e240::/32]
+
+ip-start [2803:e240::], ip-end [2803:e240:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:e600::/32]
+
+ip-start [2803:e600::], ip-end [2803:e600:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ed40::/32]
+
+ip-start [2803:ed40::], ip-end [2803:ed40:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:ef00::/32]
+
+ip-start [2803:ef00::], ip-end [2803:ef00:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:f0e0::/32]
+
+ip-start [2803:f0e0::], ip-end [2803:f0e0:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:f520::/32]
+
+ip-start [2803:f520::], ip-end [2803:f520:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2803:fb00::/32]
+
+ip-start [2803:fb00::], ip-end [2803:fb00:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2a07:6900::/29]
+
+ip-start [2a07:6900::], ip-end [2a07:6907:ffff:ffff:ffff:ffff:ffff:ffff]
+

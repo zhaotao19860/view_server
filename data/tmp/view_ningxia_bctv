@@ -1,0 +1,16 @@
+IPV4:
+
+ip-cidr [45.253.60.0/22]
+
+ip-start [45.253.60.0], ip-end [45.253.63.255]
+
+ip-cidr [103.222.184.0/22]
+
+ip-start [103.222.184.0], ip-end [103.222.187.255]
+
+IPV6:
+
+ip-cidr [2407:7980::/32]
+
+ip-start [2407:7980::], ip-end [2407:7980:ffff:ffff:ffff:ffff:ffff:ffff]
+

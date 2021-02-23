@@ -1,0 +1,248 @@
+IPV4:
+
+ip-cidr [42.242.0.0/15]
+
+ip-start [42.242.0.0], ip-end [42.243.255.255]
+
+ip-cidr [43.228.76.0/22]
+
+ip-start [43.228.76.0], ip-end [43.228.79.255]
+
+ip-cidr [43.254.252.0/22]
+
+ip-start [43.254.252.0], ip-end [43.254.255.255]
+
+ip-cidr [60.160.0.0/15]
+
+ip-start [60.160.0.0], ip-end [60.161.255.255]
+
+ip-cidr [61.138.192.0/19]
+
+ip-start [61.138.192.0], ip-end [61.138.223.255]
+
+ip-cidr [61.159.192.0/18]
+
+ip-start [61.159.192.0], ip-end [61.159.255.255]
+
+ip-cidr [61.166.0.0/16]
+
+ip-start [61.166.0.0], ip-end [61.166.255.255]
+
+ip-cidr [103.22.28.0/22]
+
+ip-start [103.22.28.0], ip-end [103.22.31.255]
+
+ip-cidr [103.23.8.0/22]
+
+ip-start [103.23.8.0], ip-end [103.23.11.255]
+
+ip-cidr [103.47.80.0/22]
+
+ip-start [103.47.80.0], ip-end [103.47.83.255]
+
+ip-cidr [103.203.140.0/22]
+
+ip-start [103.203.140.0], ip-end [103.203.143.255]
+
+ip-cidr [106.56.0.0/13]
+
+ip-start [106.56.0.0], ip-end [106.63.255.255]
+
+ip-cidr [112.112.0.0/14]
+
+ip-cidr [112.116.0.0/15]
+
+ip-start [112.112.0.0], ip-end [112.117.255.255]
+
+ip-cidr [115.168.57.0/24]
+
+ip-start [115.168.57.0], ip-end [115.168.57.255]
+
+ip-cidr [115.168.89.0/24]
+
+ip-start [115.168.89.0], ip-end [115.168.89.255]
+
+ip-cidr [116.52.0.0/14]
+
+ip-start [116.52.0.0], ip-end [116.55.255.255]
+
+ip-cidr [116.248.0.0/15]
+
+ip-start [116.248.0.0], ip-end [116.249.255.255]
+
+ip-cidr [182.240.0.0/13]
+
+ip-start [182.240.0.0], ip-end [182.247.255.255]
+
+ip-cidr [202.98.64.0/19]
+
+ip-start [202.98.64.0], ip-end [202.98.95.255]
+
+ip-cidr [202.98.160.0/19]
+
+ip-start [202.98.160.0], ip-end [202.98.191.255]
+
+ip-cidr [218.62.128.0/17]
+
+ip-cidr [218.63.0.0/16]
+
+ip-start [218.62.128.0], ip-end [218.63.255.255]
+
+ip-cidr [220.163.0.0/16]
+
+ip-cidr [220.164.0.0/15]
+
+ip-start [220.163.0.0], ip-end [220.165.255.255]
+
+ip-cidr [222.172.128.0/17]
+
+ip-start [222.172.128.0], ip-end [222.172.255.255]
+
+ip-cidr [222.219.0.0/16]
+
+ip-cidr [222.220.0.0/15]
+
+ip-start [222.219.0.0], ip-end [222.221.255.255]
+
+IPV6:
+
+ip-cidr [240e:12::/33]
+
+ip-start [240e:12::], ip-end [240e:12:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:12:8000::/36]
+
+ip-start [240e:12:8000::], ip-end [240e:12:8fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:12:9000::/37]
+
+ip-start [240e:12:9000::], ip-end [240e:12:97ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:52:4000::/36]
+
+ip-start [240e:52:4000::], ip-end [240e:52:4fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c8::/33]
+
+ip-start [240e:c8::], ip-end [240e:c8:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c8:8000::/35]
+
+ip-start [240e:c8:8000::], ip-end [240e:c8:9fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c8:c000::/34]
+
+ip-start [240e:c8:c000::], ip-end [240e:c8:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c9:4000::/35]
+
+ip-start [240e:c9:4000::], ip-end [240e:c9:5fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c9:8000::/35]
+
+ip-start [240e:c9:8000::], ip-end [240e:c9:9fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c9:a000::/41]
+
+ip-start [240e:c9:a000::], ip-end [240e:c9:a07f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c9:a080::/43]
+
+ip-start [240e:c9:a080::], ip-end [240e:c9:a09f:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c9:a0c0::/43]
+
+ip-start [240e:c9:a0c0::], ip-end [240e:c9:a0df:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:c9:a800::/37]
+
+ip-start [240e:c9:a800::], ip-end [240e:c9:afff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:ca::/33]
+
+ip-start [240e:ca::], ip-end [240e:ca:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:ca:8000::/34]
+
+ip-start [240e:ca:8000::], ip-end [240e:ca:bfff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:108:89::/48]
+
+ip-start [240e:108:89::], ip-end [240e:108:89:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:34c::/30]
+
+ip-start [240e:34c::], ip-end [240e:34f:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:64c::/33]
+
+ip-start [240e:64c::], ip-end [240e:64c:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:64c:8000::/40]
+
+ip-start [240e:64c:8000::], ip-end [240e:64c:80ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:64d::/33]
+
+ip-start [240e:64d::], ip-end [240e:64d:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:64d:8000::/40]
+
+ip-start [240e:64d:8000::], ip-end [240e:64d:80ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:64e::/33]
+
+ip-start [240e:64e::], ip-end [240e:64e:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:64e:8000::/40]
+
+ip-start [240e:64e:8000::], ip-end [240e:64e:80ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:64f::/33]
+
+ip-start [240e:64f::], ip-end [240e:64f:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:64f:8000::/40]
+
+ip-start [240e:64f:8000::], ip-end [240e:64f:80ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:74c::/33]
+
+ip-start [240e:74c::], ip-end [240e:74c:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:74c:8000::/40]
+
+ip-start [240e:74c:8000::], ip-end [240e:74c:80ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:74d::/33]
+
+ip-start [240e:74d::], ip-end [240e:74d:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:74d:8000::/40]
+
+ip-start [240e:74d:8000::], ip-end [240e:74d:80ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:74e::/33]
+
+ip-start [240e:74e::], ip-end [240e:74e:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:74e:8000::/40]
+
+ip-start [240e:74e:8000::], ip-end [240e:74e:80ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:74f::/33]
+
+ip-start [240e:74f::], ip-end [240e:74f:7fff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:74f:8000::/40]
+
+ip-start [240e:74f:8000::], ip-end [240e:74f:80ff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:94c::/31]
+
+ip-start [240e:94c::], ip-end [240e:94d:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [240e:980:8900::/40]
+
+ip-start [240e:980:8900::], ip-end [240e:980:89ff:ffff:ffff:ffff:ffff:ffff]
+

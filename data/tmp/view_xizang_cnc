@@ -1,0 +1,70 @@
+IPV4:
+
+ip-cidr [27.98.224.0/19]
+
+ip-start [27.98.224.0], ip-end [27.98.255.255]
+
+ip-cidr [43.242.164.0/22]
+
+ip-start [43.242.164.0], ip-end [43.242.167.255]
+
+ip-cidr [59.81.102.0/23]
+
+ip-start [59.81.102.0], ip-end [59.81.103.255]
+
+ip-cidr [103.3.124.0/22]
+
+ip-start [103.3.124.0], ip-end [103.3.127.255]
+
+ip-cidr [116.172.128.0/17]
+
+ip-start [116.172.128.0], ip-end [116.172.255.255]
+
+ip-cidr [211.92.244.0/22]
+
+ip-cidr [211.92.248.0/21]
+
+ip-start [211.92.244.0], ip-end [211.92.255.255]
+
+ip-cidr [220.207.242.0/23]
+
+ip-start [220.207.242.0], ip-end [220.207.243.255]
+
+ip-cidr [220.250.73.190/31]
+
+ip-start [220.250.73.190], ip-end [220.250.73.191]
+
+ip-cidr [221.13.64.0/19]
+
+ip-start [221.13.64.0], ip-end [221.13.95.255]
+
+IPV6:
+
+ip-cidr [2408:8001:a000::/36]
+
+ip-start [2408:8001:a000::], ip-end [2408:8001:afff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2408:826e::/31]
+
+ip-start [2408:826e::], ip-end [2408:826f:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2408:836e::/31]
+
+ip-start [2408:836e::], ip-end [2408:836f:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2408:846e::/31]
+
+ip-start [2408:846e::], ip-end [2408:846f:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2408:84fa::/32]
+
+ip-start [2408:84fa::], ip-end [2408:84fa:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2408:866e::/31]
+
+ip-start [2408:866e::], ip-end [2408:866f:ffff:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2408:876e::/31]
+
+ip-start [2408:876e::], ip-end [2408:876f:ffff:ffff:ffff:ffff:ffff:ffff]
+

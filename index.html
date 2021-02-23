@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="view2ip/ip2view.">
+    <meta name="author" content="tom">
+    <title>视图查询</title>
+
+    <!-- 加载cdn资源 -->
+    <link href="//cdn.staticfile.org/twitter-bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="//cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
+    <script>
+        if (!window.jQuery) {
+            //如果cdn加载失败，则加载本地文件
+            document.write('<link rel="stylesheet" href="/static/css/bootstrap.min.css"><script src="/static/js/jquery-1.12.4.min.js"><\/script>');
+        }
+    </script>
+
+    <!-- 加载本地资源 -->
+    <link href="/static/css/cover.css?v=1.4" rel="stylesheet">
+    <link href="/static/css/jquery.autocompleter.css" rel="stylesheet">
+    <script src="/static/js/jquery.autocompleter.min.js"></script>
+    <script type="text/javascript" src="/data/tmp/autocompleter.data.js"></script>
+
+</head>
+
+<body>
+    <div class="site-wrapper">
+        <div class="site-wrapper-inner">
+            <div class="container">
+                <div class="cover-container" style="max-width: 900px;">
+                    <div class="inner cover">
+                        <div id="hideform">
+                            <div class="form-group">
+                                <div class="col-md-2"></div>
+                                <div class="col-md-6">
+                                    <!-- 输入框：支持智能提示/支持enter键提交 -->
+                                    <input class="form-control" type="text" placeholder="view_ningxia_cmcc/1.1.1.1"
+                                        name="ip_or_view" id="regularInput" autofocus="">
+                                </div>
+                            </div>
+                            <!-- 提交按钮 -->
+                            <div align="left" id="formsubmit"><button id="searchbutton" type="submit"
+                                    class="btn btn-default">Search</button></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-8">
+                            <!-- 加载等待条 -->
+                            <div id="showloading" style="color: rgb(255, 255, 255); display: none;">Loading...<br>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-success progress-bar-striped active"
+                                        role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"
+                                        style="width: 100%">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 结果展示窗口 -->
+                <div class="row">
+                    <div class="col-md-12" style="padding: 20px;"></div>
+                    <div class="row">
+                        <div id="result"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                function isnull(val) {
+                    var str = val.replace(/(^\s*)|(\s*$)/g, '');//去除空格;
+                    if (str == '' || str == undefined || str == null) {
+                        return true;
+                    } else {
+                        return false;
+                    }
+                }
+                //点击按钮时，通过调用cgi脚本获取输出结果；
+                $("button").click(function () {
+                    if (!isnull($("input:text").val())) {
+                        $("#hideform").hide();
+                        $("#showloading").show();
+                        $.ajax({
+                            url: "/cgi-bin/search.sh",
+                            type: "post",
+                            datatype: "html",
+                            data: { ip_or_view: $("input:text").val() },
+                            success: function (response) {
+                                $("#hideform").show();
+                                $("#showloading").hide();
+                                $("#result").html(response);
+                            }
+                        });
+                    }
+                });
+                //输入框支持enter键提交查询；
+                (function () {
+                    var txt = document.getElementById('regularInput');
+                    txt.addEventListener('keypress', function (event) {
+                        if (event.keyCode == 13) {
+                            document.getElementById('searchbutton').click();
+                        }
+                    });
+                }());
+                //输入框支持智能提示；
+                $(function () {
+                    //本地变量方式：
+                    //var mydata = [
+                    //    { value: 'view_360_search', label: 'view_360_search' },
+                    //    { value: 'view_america', label: 'view_america' }
+                    //];
+                    //远端变量方式：
+                    //文件格式：cat autocompleter.data.js
+                    //data = `[
+                    //{ "value": "view_360_search", "label": "view_360_search" },
+                    //{ "value": "view_america", "label": "view_america" }
+                    //]`;
+                    var mydata = JSON.parse(data);
+                    $("#regularInput").autocompleter({
+                        source: mydata
+                    });
+                });
+            });
+        </script>
+</body>
+
+</html>

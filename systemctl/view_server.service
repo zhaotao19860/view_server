@@ -1,0 +1,13 @@
+[Unit]
+Description=view server
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/sh -c 'python /root/zhaotao/view_server/server.py'
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=view_server_service
+
+[Install]
+WantedBy=muti-user.target

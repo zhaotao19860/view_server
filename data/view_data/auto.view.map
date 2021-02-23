@@ -1,0 +1,347 @@
+#视图名称                    上级视图名称                     所属搜索引擎/大洲/国家  所属省        所属运营商
+view_default                none                              none                   none         none
+
+#私网地址线路
+view_private                none                              私网地址线路            none         none
+view_internal               view_private                      保留地址                none         none
+view_internals_guangzhou    view_private                      广州私网地址            none          none
+view_internals_huabei       view_private                      华北私网地址            none          none
+view_internals_suqian       view_private                      宿迁私网地址            none          none
+
+#搜索引擎线路
+view_search                 none                              搜索引擎线路            none         none
+view_google_search          view_search                       google                 none         none  
+view_baidu_search           view_search                       baidu                  none         none
+view_360_search             view_search                       360                    none         none
+view_yahoo_search   	    view_search                       yahoo                  none         none
+
+#海外线路
+view_world                  none                              海外线路               none         none
+view_asia                   view_world                        亚洲                   none         none
+view_europe                 view_world                        欧洲                   none         none
+view_africa                 view_world                        非洲                   none         none
+view_northern_america	    view_world                        北美洲                 none         none
+view_latin_america  	    view_world                        南美洲                 none         none
+view_oceania        	    view_world                        大洋洲                 none         none
+
+#北美洲线路
+view_america                view_northern_america             美国                   none         none
+view_canada                 view_northern_america             加拿大                 none         none
+view_mexico         	    view_northern_america             墨西哥                 none          none
+
+#拉丁美洲线路
+view_brazil                 view_latin_america                巴西                   none         none
+view_argentina              view_latin_america                阿根廷                 none         none
+view_chile                  view_latin_america                智利                   none         none
+view_peru           	    view_latin_america                秘鲁                   none          none
+view_bolivia                view_latin_america                玻利维亚               none         none
+view_venezuela      	    view_latin_america                委内瑞拉               none          none
+view_colombia               view_latin_america                哥伦比亚               none         none
+view_ecuador                view_latin_america                厄瓜多尔               none         none
+view_panama         	    view_latin_america                巴拿马                 none          none
+view_paraguay       	    view_latin_america                巴拉圭                 none          none
+view_uruguay        	    view_latin_america                乌拉圭                 none          none
+
+#大洋洲线路
+view_australia              view_oceania                      澳大利亚               none         none
+view_newzealand     	    view_oceania                      新西兰                 none          none
+
+#非洲线路
+view_south_africa   	    view_africa                       南非                   none          none
+view_egypt                  view_africa                       埃及                   none         none
+
+#欧洲线路
+view_austria                view_europe                       奥地利                 none         none
+view_denmark                view_europe                       丹麦                   none         none
+view_england                view_europe                       英国                   none         none
+view_finland                view_europe                       芬兰                   none         none
+view_france                 view_europe                       法国                   none         none
+view_greece                 view_europe                       希腊                   none         none
+view_german                 view_europe                       德国                   none         none
+view_italy          	    view_europe                       意大利                 none         none
+view_netherlands    	    view_europe                       荷兰                   none          none
+view_norway         	    view_europe                       挪威                   none          none
+view_portugal       	    view_europe                       葡萄牙                 none          none
+view_russia_world   	    view_europe                       俄罗斯                 none          none
+view_spain          	    view_europe                       西班牙                 none          none
+view_sweden         	    view_europe                       瑞典                   none          none
+view_switzerland    	    view_europe                       瑞士                   none          none
+view_turkey         	    view_europe                       土耳其                 none          none
+view_ukraine        	    view_europe                       乌克兰                 none          none
+view_romania        	    view_europe                       罗马尼亚               none          none
+
+#亚洲线路
+view_cambodia               view_asia                         柬埔寨                 none         none
+view_india          	    view_asia                         印度                   none         none
+view_indonesia      	    view_asia                         印度尼西亚             none         none
+view_japan          	    view_asia                         日本                   none         none
+view_kazakhstan     	    view_asia                         哈萨克斯坦             none          none
+view_korea          	    view_asia                         韩国                   none         none
+view_laos           	    view_asia                         老挝                   none         none
+view_malaysia       	    view_asia                         马来西亚               none          none
+view_maldives       	    view_asia                         马尔代夫               none          none
+view_myanmar        	    view_asia                         缅甸                   none          none
+view_nepal          	    view_asia                         尼泊尔                 none          none
+view_pakistan       	    view_asia                         巴基斯坦               none          none
+view_philippines    	    view_asia                         菲律宾                 none          none
+view_saudi_arabia   	    view_asia                         沙特阿拉伯              none          none
+view_singapore      	    view_asia                         新加坡                 none          none
+view_united_arab_emirates	view_asia                         阿联酋                 none          none
+view_vietnam        	    view_asia                         越南                   none          none
+view_thailand       	    view_asia                         泰国                   none          none
+
+#港澳台线路
+view_hk_mo_tw	            none                              港澳台线路              none          none
+view_xianggang	            view_hk_mo_tw                     中国                   香港           none
+view_aomen	                view_hk_mo_tw                     中国                   澳门           none
+view_taiwan	                view_hk_mo_tw                     中国                   台湾           none
+
+#第三方小运营商线路
+view_btte                   none                              中国                   none          电信通/长城
+view_cernet                 none                              中国                   none          教育网
+view_ctt                    none                              中国                   none          铁通
+view_fder                   none                              中国                   none          方正
+view_huashu         	    none                              中国                   none          华数
+view_ix                     none                              小运营商线路           none          none   
+view_topway                 view_ix                           中国                   none          天威视讯
+view_citic_ix               view_ix                           中国                   none          中信网络
+view_ocn                    view_ix                           中国                   none          东方有线
+view_arpa_ix                view_ix                           中国                   none          阿帕网络
+view_chn_ix                 view_ix                           中国                   none          蓝汛
+view_ean_ix                 view_ix                           中国                   none          亿安天下
+view_fder_ix                view_ix                           中国                   none          方正网络
+view_gdxc_ix                view_ix                           中国                   none          光电创新
+view_heilongjiangbctv_ix    view_ix                           中国                   none          黑龙江广电
+view_henanbctv_ix           view_ix                           中国                   none          河南广电
+view_ks_ix                  view_ix                           中国                   none          昆时网络
+view_shanghaiwexch_ix       view_ix                           中国                   none          上海驰联
+view_beijingwexch_ix        view_ix                           中国                   none          北京驰联
+view_guangzhouwexch_ix      view_ix                           中国                   none          广州驰联
+view_beijinghk_ix           view_ix                           中国                   none          皓宽
+view_beijingcernet_ix       view_ix                           中国                   none          北京教育网
+view_beijinghs_ix           view_ix                           中国                   none          航数宽网
+view_beijingthht_ix         view_ix                           中国                   none          天鸿汇通
+view_beijingltjx_ix         view_ix                           中国                   none          龙腾佳讯
+view_beijingxh_ix           view_ix                           中国                   none          轩慧
+view_beijingpm_ix           view_ix                           中国                   none          平煤
+view_beijingls_ix           view_ix                           中国                   none          联速
+view_beijingdfwx_ix         view_ix                           中国                   none          东方网信
+view_beijingslt_ix          view_ix                           中国                   none          数立通
+view_beijingbkkj_ix         view_ix                           中国                   none          北宽科技
+view_beijingssy_ix          view_ix                           中国                   none          卅思云
+view_beijingshs_ix          view_ix                           中国                   none          舒华士
+view_wlgt_ix                view_ix                           中国                   none          网联光通
+view_wsjy_ix                view_ix                           中国                   none          维实嘉业
+view_yctx_ix                view_ix                           中国                   none          云创通讯
+view_yhlm_ix                view_ix                           中国                   none          友好联盟
+view_cqgd_ix                view_ix                           中国                   none          重庆广电
+view_kunmingbctv_ix         view_ix                           中国                   none          昆明广电
+view_hebeibctv_ix           view_ix                           中国                   none          河北广电
+view_shanghaidjnet_ix       view_ix                           中国                   none          上海典基网络
+view_beijingbgctv_ix        view_ix                           中国                   none          北京歌华
+view_xinjiangbctv_ix        view_ix                           中国                   none          新疆广电
+view_guangzhoubctv_ix       view_ix                           中国                   none          广州广电
+view_guangxibctv_ix         view_ix                           中国                   none          广西广电
+view_highway_ix             view_ix                           中国                   none          翰威
+view_huashucm_ix            view_ix                           中国                   none          华数传媒
+view_wanweiyl_ix            view_ix                           中国                   none          万维云联
+view_shanghaibtte_ix        view_ix                           中国                   none          上海长宽
+view_huashucloud_ix         view_ix                           中国                   none          华数云
+view_other          	    none                              中国                   none          其他运营商
+
+#四大运营商线路
+view_cmcc	                none                              移动线路               none          none
+view_cnc	                none                              联通线路               none          none
+view_ct	                    none                              电信线路               none          none
+view_bctv	                none                              广电线路               none          none
+view_other_cmcc     	    view_cmcc                         中国                   其他          移动
+view_other_cnc      	    view_cnc                          中国                   其他          联通
+view_other_ct       	    view_ct                           中国                   其他          电信
+view_other_bctv       	    view_bctv                         中国                   其他          广电
+
+#华东移动线路
+view_anhui_cmcc             view_cmcc                         中国                   安徽           移动
+view_fujian_cmcc            view_cmcc                         中国                   福建           移动
+view_jiangsu_cmcc   	    view_cmcc                         中国                   江苏           移动
+view_jiangxi_cmcc   	    view_cmcc                         中国                   江西           移动
+view_shandong_cmcc  	    view_cmcc                         中国                   山东           移动
+view_shanghai_cmcc  	    view_cmcc                         中国                   上海           移动
+view_zhejiang_cmcc  	    view_cmcc                         中国                   浙江           移动
+
+#华南移动线路
+view_guangxi_cmcc           view_cmcc                         中国                   广西           移动
+view_guangdong_cmcc         view_cmcc                         中国                   广东           移动
+view_hainan_cmcc            view_cmcc                         中国                   海南           移动
+
+#华中移动线路
+view_henan_cmcc     	    view_cmcc                         中国                   河南           移动
+view_hubei_cmcc     	    view_cmcc                         中国                   湖北           移动
+view_hunan_cmcc     	    view_cmcc                         中国                   湖南           移动
+
+#华北移动线路
+view_beijing_cmcc           view_cmcc                         中国                   北京           移动
+view_hebei_cmcc             view_cmcc                         中国                   河北           移动
+view_neimenggu_cmcc 	    view_cmcc                         中国                   内蒙古         移动
+view_shanxi_cmcc    	    view_cmcc                         中国                   山西           移动
+view_tianjin_cmcc   	    view_cmcc                         中国                   天津           移动
+
+#西南移动线路
+view_chongqing_cmcc         view_cmcc                         中国                   重庆           移动
+view_guizhou_cmcc           view_cmcc                         中国                   贵州           移动
+view_sichuan_cmcc    	    view_cmcc                         中国                   四川           移动
+view_yunnan_cmcc    	    view_cmcc                         中国                   云南           移动
+view_xizang_cmcc     	    view_cmcc                         中国                   西藏           移动
+
+#西北移动线路
+view_gansu_cmcc             view_cmcc                         中国                   甘肃           移动
+view_ningxia_cmcc   	    view_cmcc                         中国                   宁夏           移动
+view_qinghai_cmcc   	    view_cmcc                         中国                   青海           移动
+view_sshanxi_cmcc   	    view_cmcc                         中国                   陕西           移动
+view_xinjiang_cmcc  	    view_cmcc                         中国                   新疆           移动
+
+#东北移动线路
+view_heilongjiang_cmcc	    view_cmcc                         中国                   黑龙江         移动
+view_jilin_cmcc     	    view_cmcc                         中国                   吉林           移动
+view_liaoning_cmcc  	    view_cmcc                         中国                   辽宁           移动
+
+#华东联通线路
+view_anhui_cnc              view_cnc                         中国                   安徽           联通
+view_fujian_cnc             view_cnc                         中国                   福建           联通
+view_jiangsu_cnc    	    view_cnc                         中国                   江苏           联通
+view_jiangxi_cnc    	    view_cnc                         中国                   江西           联通
+view_shandong_cnc   	    view_cnc                         中国                   山东           联通
+view_shanghai_cnc   	    view_cnc                         中国                   上海           联通
+view_zhejiang_cnc   	    view_cnc                         中国                   浙江           联通
+
+#华南联通线路
+view_guangxi_cnc            view_cnc                          中国                   广西           联通
+view_guangdong_cnc          view_cnc                          中国                   广东           联通
+view_hainan_cnc             view_cnc                          中国                   海南           联通
+
+#华中联通线路
+view_henan_cnc      	    view_cnc                          中国                   河南           联通
+view_hubei_cnc      	    view_cnc                          中国                   湖北           联通
+view_hunan_cnc      	    view_cnc                          中国                   湖南           联通
+
+#华北联通线路
+view_beijing_cnc            view_cnc                          中国                   北京           联通
+view_hebei_cnc              view_cnc                          中国                   河北           联通
+view_neimenggu_cnc  	    view_cnc                          中国                   内蒙古         联通
+view_shanxi_cnc     	    view_cnc                          中国                   山西           联通
+view_tianjin_cnc    	    view_cnc                          中国                   天津           联通
+
+#西南联通线路
+view_chongqing_cnc          view_cnc                          中国                   重庆           联通
+view_guizhou_cnc            view_cnc                          中国                   贵州           联通
+view_sichuan_cnc    	    view_cnc                          中国                   四川           联通
+view_xizang_cnc     	    view_cnc                          中国                   西藏           联通
+view_yunnan_cnc     	    view_cnc                          中国                   云南           联通
+
+#西北联通线路
+view_gansu_cnc              view_cnc                          中国                   甘肃           联通
+view_ningxia_cnc    	    view_cnc                          中国                   宁夏           联通
+view_qinghai_cnc    	    view_cnc                          中国                   青海           联通
+view_sshanxi_cnc    	    view_cnc                          中国                   陕西           联通
+view_xinjiang_cnc   	    view_cnc                          中国                   新疆           联通
+
+#东北联通线路
+view_heilongjiang_cnc	    view_cnc                          中国                   黑龙江         联通
+view_jilin_cnc      	    view_cnc                          中国                   吉林           联通
+view_liaoning_cnc   	    view_cnc                          中国                   辽宁           联通
+
+#华东电信线路
+view_anhui_ct               view_ct                           中国                   安徽           电信
+view_fujian_ct              view_ct                           中国                   福建           电信
+view_jiangsu_ct     	    view_ct                           中国                   江苏           电信
+view_jiangxi_ct     	    view_ct                           中国                   江西           电信
+view_shandong_ct    	    view_ct                           中国                   山东           电信
+view_shanghai_ct    	    view_ct                           中国                   上海           电信
+view_zhejiang_ct    	    view_ct                           中国                   浙江           电信
+
+#华南电信线路
+view_guangxi_ct             view_ct                           中国                   广西           电信
+view_guangdong_ct           view_ct                           中国                   广东           电信
+view_hainan_ct              view_ct                           中国                   海南           电信
+
+#华中电信线路
+view_henan_ct       	    view_ct                           中国                   河南           电信
+view_hubei_ct       	    view_ct                           中国                   湖北           电信
+view_hunan_ct       	    view_ct                           中国                   湖南           电信
+
+#华北电信线路
+view_beijing_ct             view_ct                           中国                   北京           电信
+view_hebei_ct               view_ct                           中国                   河北           电信
+view_neimenggu_ct   	    view_ct                           中国                   内蒙古         电信
+view_shanxi_ct      	    view_ct                           中国                   山西           电信
+view_tianjin_ct     	    view_ct                           中国                   天津           电信  
+
+#西南电信线路
+view_chongqing_ct           view_ct                           中国                   重庆           电信           
+view_guizhou_ct             view_ct                           中国                   贵州           电信
+view_sichuan_ct     	    view_ct                           中国                   四川           电信
+view_xizang_ct      	    view_ct                           中国                   西藏           电信
+view_yunnan_ct      	    view_ct                           中国                   云南           电信
+
+#西北电信线路
+view_gansu_ct               view_ct                           中国                   甘肃           电信
+view_ningxia_ct     	    view_ct                           中国                   宁夏           电信
+view_qinghai_ct     	    view_ct                           中国                   青海           电信
+view_sshanxi_ct     	    view_ct                           中国                   陕西           电信
+view_xinjiang_ct    	    view_ct                           中国                   新疆           电信
+
+#东北电信线路
+view_heilongjiang_ct	    view_ct                           中国                   黑龙江         电信
+view_jilin_ct       	    view_ct                           中国                   吉林           电信
+view_liaoning_ct    	    view_ct                           中国                   辽宁           电信
+
+#华东广电线路
+view_shandong_bctv    	    view_bctv                         中国                   山东           广电
+
+#华南广电线路
+view_guangdong_bctv         view_bctv                         中国                   广东           广电
+
+#华北广电线路
+view_neimenggu_bctv 	    view_bctv                         中国                   内蒙古         广电
+
+#西南广电线路
+view_chongqing_bctv         view_bctv                         中国                   重庆           广电
+view_guizhou_bctv           view_bctv                         中国                   贵州           广电
+view_sichuan_bctv           view_bctv                         中国                   四川           广电
+
+#西北广电线路
+view_ningxia_bctv   	    view_bctv                         中国                   宁夏           广电
+view_sshanxi_bctv   	    view_bctv                         中国                   陕西           广电
+
+#华中广电线路
+view_hubei_bctv       	    view_bctv                         中国                   湖北           广电
+
+#东北广电线路               
+view_jilin_bctv             view_bctv                         中国                   吉林           广电
+view_liaoning_bctv          view_bctv                         中国                   辽宁           广电
+
+#待删除空线路
+view_beijing_citic          none                              中国                   none           北京中信
+view_wexch_ix               view_ix                           中国                   none           驰联
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

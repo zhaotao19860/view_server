@@ -1,0 +1,24 @@
+IPV4:
+
+ip-cidr [60.204.0.0/17]
+
+ip-start [60.204.0.0], ip-end [60.204.127.255]
+
+ip-cidr [103.227.228.0/22]
+
+ip-start [103.227.228.0], ip-end [103.227.231.255]
+
+ip-cidr [182.238.0.0/16]
+
+ip-start [182.238.0.0], ip-end [182.238.255.255]
+
+IPV6:
+
+ip-cidr [2001:df0:2e00::/48]
+
+ip-start [2001:df0:2e00::], ip-end [2001:df0:2e00:ffff:ffff:ffff:ffff:ffff]
+
+ip-cidr [2400:ebc0::/32]
+
+ip-start [2400:ebc0::], ip-end [2400:ebc0:ffff:ffff:ffff:ffff:ffff:ffff]
+
