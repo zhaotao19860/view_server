@@ -21,8 +21,6 @@
 http://10.226.133.67:8000/
 ```
 
-http
-
 ## 反向代理
 
 | cat /etc/nginx/nginx.conf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
